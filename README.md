@@ -1,3 +1,5 @@
+![Python](https://www.python.org/static/img/python-logo@2x.png)
+
 # 30-Days-Of-Python-07-02-23
 This repository is a documentation of a 30 day challenge I'm starting on the 7th of February 2023.
 Thank you to [Asabeneh](https://github.com/TIMILEHINMOWO/30-Days-Of-Python).
