@@ -24,10 +24,3 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 #Finding the Euclidean Distance between (2,3) & (10,8)
 
 print(((2-10)**2 + (3-8)**2)**0.5)
-
-
-
-
-
-
-
