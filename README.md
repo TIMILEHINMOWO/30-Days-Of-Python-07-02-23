@@ -15,3 +15,6 @@ Thank you to [Asabeneh](https://github.com/TIMILEHINMOWO/30-Days-Of-Python).
   - Performaing basic arithmetic operations
   - Identifying data types
   - Calculatiing [Eclidian distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.)
+
+
+[...Day_2>>](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/blob/main/Day_2/Day_2.md)
