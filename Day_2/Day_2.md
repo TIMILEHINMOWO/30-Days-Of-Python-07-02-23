@@ -7,7 +7,7 @@
 - Checking Data Types & Casting
 - Numbers
 
-### [Day 2 Exercises]():
+### [Day 2 Exercises](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/tree/main/Day_2):
 #### Exercises 1:
 1. Declare a first name variable and assign a value to it
 1. Declare a last name variable and assign a value to it
@@ -39,3 +39,5 @@
     3. Take radius as user input and calculate the area.
 1. Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
 1. Run help('keywords') in Python shell or in your file to check for the Python reserved words or keywords
+
+[<< Day 1 ]()[| Day 3 >>]()
