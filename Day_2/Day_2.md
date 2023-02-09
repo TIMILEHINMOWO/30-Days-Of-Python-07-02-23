@@ -1,4 +1,10 @@
-# Day 2:
+<div align="center">
+  <h1> 30 Days Of Python: Day 2</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/oluwatimilehin-ehinmowo/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+</div>
+
 - Built in functions
 - Variables
   - _Variable naming rules_
@@ -40,4 +46,4 @@
 1. Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
 1. Run help('keywords') in Python shell or in your file to check for the Python reserved words or keywords
 
-[<< Day 1 ](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/blob/main/README.md)[| Day 3 >>]()
+[<< Day 1 ](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/blob/main/README.md)[| Day 3 >>](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/blob/main/Day_3/Day_3.md)
