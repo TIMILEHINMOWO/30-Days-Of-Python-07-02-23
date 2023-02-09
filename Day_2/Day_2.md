@@ -7,8 +7,8 @@
 - Checking Data Types & Casting
 - Numbers
 
-## [Day 2 Exercises](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/tree/main/Day_2):
-### Exercises 1:
+## Day 2 Exercises:
+### [Exercises 1](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/blob/main/Day_2/Day_2%20Ex_1.py):
 1. Declare a first name variable and assign a value to it
 1. Declare a last name variable and assign a value to it
 1. Declare a full name variable and assign a value to it
@@ -21,7 +21,7 @@
 1. Declare a variable is_light_on and assign a value to it
 1. Declare multiple variable on one line
 
-### Exercises 2:
+### [Exercises 2](https://github.com/TIMILEHINMOWO/30-Days-Of-Python-07-02-23/blob/main/Day_2/Day_2%20Ex_2.py):
 1. Check the data type of all your variables using type() built-in function
 1. Using the _len()_ built-in function, find the length of your first name
 1. Compare the length of your first name and your last name
