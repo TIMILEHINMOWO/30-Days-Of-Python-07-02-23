@@ -35,18 +35,3 @@ area = pi*radius**2
 circumference = 2*pi*radius
 print("Area of circle is",area)
 print("Area of circumference is",circumference)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
